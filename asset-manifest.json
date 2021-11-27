@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/psi-azza/static/css/main.a425c1f3.chunk.css",
+    "main.js": "/psi-azza/static/js/main.ed2d1857.chunk.js",
+    "main.js.map": "/psi-azza/static/js/main.ed2d1857.chunk.js.map",
+    "runtime-main.js": "/psi-azza/static/js/runtime-main.b5512d73.js",
+    "runtime-main.js.map": "/psi-azza/static/js/runtime-main.b5512d73.js.map",
+    "static/js/2.9200950a.chunk.js": "/psi-azza/static/js/2.9200950a.chunk.js",
+    "static/js/2.9200950a.chunk.js.map": "/psi-azza/static/js/2.9200950a.chunk.js.map",
+    "static/js/3.8b05805f.chunk.js": "/psi-azza/static/js/3.8b05805f.chunk.js",
+    "static/js/3.8b05805f.chunk.js.map": "/psi-azza/static/js/3.8b05805f.chunk.js.map",
+    "index.html": "/psi-azza/index.html",
+    "static/css/main.a425c1f3.chunk.css.map": "/psi-azza/static/css/main.a425c1f3.chunk.css.map",
+    "static/js/2.9200950a.chunk.js.LICENSE.txt": "/psi-azza/static/js/2.9200950a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5512d73.js",
+    "static/js/2.9200950a.chunk.js",
+    "static/css/main.a425c1f3.chunk.css",
+    "static/js/main.ed2d1857.chunk.js"
+  ]
+}
